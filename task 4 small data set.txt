@@ -1,0 +1,11 @@
+label,message
+ham,Hey are we meeting today?
+spam,Win a FREE iPhone now! Click the link
+ham,I will call you later
+spam,You have won $1000 cash prize. Call now!
+ham,Can you send me the notes?
+spam,Congratulations! You are selected for a free vacation
+ham,Let’s go for lunch tomorrow
+spam,URGENT! Your account will be blocked. Verify now
+ham,See you in the evening
+spam,Claim your free coupon today only
